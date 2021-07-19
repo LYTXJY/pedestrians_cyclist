@@ -1,4 +1,4 @@
-import os
+import os, numpy
 
 
 def i_am_the_xkl_commit_func():
